@@ -1,3 +1,1 @@
-A twitter clone, Ribbit, built using Django.
-hola, este es el trabajo de Arquitectura
-LO MODIFIQUE EN DOCKER
+A twitter clone, Ribbit, buil using Django. Modificado por Escobar-Esquivel-Guzman-Veliz
